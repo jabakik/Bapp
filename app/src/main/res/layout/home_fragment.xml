@@ -10,6 +10,7 @@
         android:orientation="vertical"
         app:layout_constraintGuide_percent="0.06"
         />
+    <!--ვითომ რაღაც შევცვალე-->
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/Guid2"
         android:layout_width="wrap_content"
@@ -27,6 +28,7 @@
         app:layout_constraintStart_toStartOf="@+id/Guid1"
         app:layout_constraintTop_toTopOf="parent"
         />
+    <!--ვითომ რაღაც შევცვალე-->
     <View
         android:id="@+id/Search"
         android:layout_width="0dp"
