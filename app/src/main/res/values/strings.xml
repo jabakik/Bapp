@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Bapp</string>
+    <string name="user_welcome">Good day,Zesan</string>
+    <string name="money_ob_balance">$6,190.00</string>
+    <string name="features">Features</string>
+    <string name="see_more">See More</string>
+    <string name="send">Send</string>
+    <string name="recive">Recive</string>
+    <string name="rewards">Rewards</string>
+    <string name="recent_activity">Recent Activity</string>
+    <string name="rebeka_ratry">Rebeka ratry</string>
+    <string name="date_1">22 jan 2022</string>
+    <string name="money_1">+ $1,190.00</string>
+    <string name="time_1">03:23AM</string>
+    <string name="sazzin_molla">Sazzin molla</string>
+    <string name="money_2">+ $75.00</string>
+    <string name="date_2">21 jan 2022</string>
+    <string name="time_2">03:23AM</string>
+    <string name="money_3">- $220.00</string>
+    <string name="total_balance">Total balance</string>
+    <string name="adrito_rafsan">Adrito rafsan</string>
+    <string name="date_4">19 jan 2022</string>
+    <string name="_2_000_00">+ $2,000.00</string>
+    <string name="hello">Hello! </string>
+    <string name="gifts">Gifts!</string>
+    <string name="product">Product!</string>
+    <string name="profile">Profile</string>
+</resources>

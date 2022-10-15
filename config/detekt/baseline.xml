@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>Filename:com.example.bapp.MainFragment.kt:1</ID>
+    <ID>FinalNewline:com.example.bapp.ExampleInstrumentedTest.kt:1</ID>
+    <ID>FinalNewline:com.example.bapp.ExampleUnitTest.kt:1</ID>
+    <ID>FinalNewline:com.example.bapp.GiftsFragment.kt:1</ID>
+    <ID>FinalNewline:com.example.bapp.MainFragment.kt:1</ID>
+    <ID>FinalNewline:com.example.bapp.ProductsFragment.kt:1</ID>
+    <ID>FinalNewline:com.example.bapp.ProfileFragment.kt:1</ID>
+    <ID>ImportOrdering:com.example.bapp.ExampleInstrumentedTest.kt:3</ID>
+    <ID>ImportOrdering:com.example.bapp.ExampleUnitTest.kt:3</ID>
+    <ID>ImportOrdering:com.example.bapp.MainActivity.kt:3</ID>
+    <ID>Indentation:com.example.bapp.MainFragment.kt:16</ID>
+    <ID>MatchingDeclarationName:MainFragment.kt$HomeFragment : Fragment</ID>
+    <ID>NewLineAtEndOfFile:ExampleInstrumentedTest.kt$com.example.bapp.ExampleInstrumentedTest.kt</ID>
+    <ID>NewLineAtEndOfFile:ExampleUnitTest.kt$com.example.bapp.ExampleUnitTest.kt</ID>
+    <ID>NewLineAtEndOfFile:GiftsFragment.kt$com.example.bapp.GiftsFragment.kt</ID>
+    <ID>NewLineAtEndOfFile:MainFragment.kt$com.example.bapp.MainFragment.kt</ID>
+    <ID>NewLineAtEndOfFile:ProductsFragment.kt$com.example.bapp.ProductsFragment.kt</ID>
+    <ID>NewLineAtEndOfFile:ProfileFragment.kt$com.example.bapp.ProfileFragment.kt</ID>
+    <ID>NoBlankLineBeforeRbrace:com.example.bapp.MainFragment.kt:28</ID>
+    <ID>NoWildcardImports:com.example.bapp.ExampleInstrumentedTest.kt:9</ID>
+    <ID>NoWildcardImports:com.example.bapp.ExampleUnitTest.kt:5</ID>
+
+  </CurrentIssues>
+</SmellBaseline>
